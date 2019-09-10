@@ -1,0 +1,14 @@
+F:\3.Ay(Html-Css-ASP)\9.Gün(Katmanli)\MVCKatmanli\Katmanli.REP\bin\Debug\Katmanli.REP.dll.config
+F:\3.Ay(Html-Css-ASP)\9.Gün(Katmanli)\MVCKatmanli\Katmanli.REP\bin\Debug\Katmanli.REP.dll
+F:\3.Ay(Html-Css-ASP)\9.Gün(Katmanli)\MVCKatmanli\Katmanli.REP\bin\Debug\Katmanli.REP.pdb
+F:\3.Ay(Html-Css-ASP)\9.Gün(Katmanli)\MVCKatmanli\Katmanli.REP\bin\Debug\EntityFramework.dll
+F:\3.Ay(Html-Css-ASP)\9.Gün(Katmanli)\MVCKatmanli\Katmanli.REP\bin\Debug\EntityFramework.SqlServer.dll
+F:\3.Ay(Html-Css-ASP)\9.Gün(Katmanli)\MVCKatmanli\Katmanli.REP\bin\Debug\Katmanli.DAL.dll
+F:\3.Ay(Html-Css-ASP)\9.Gün(Katmanli)\MVCKatmanli\Katmanli.REP\bin\Debug\Katmanli.ENT.dll
+F:\3.Ay(Html-Css-ASP)\9.Gün(Katmanli)\MVCKatmanli\Katmanli.REP\bin\Debug\Katmanli.DAL.pdb
+F:\3.Ay(Html-Css-ASP)\9.Gün(Katmanli)\MVCKatmanli\Katmanli.REP\bin\Debug\Katmanli.ENT.pdb
+F:\3.Ay(Html-Css-ASP)\9.Gün(Katmanli)\MVCKatmanli\Katmanli.REP\bin\Debug\EntityFramework.xml
+F:\3.Ay(Html-Css-ASP)\9.Gün(Katmanli)\MVCKatmanli\Katmanli.REP\bin\Debug\EntityFramework.SqlServer.xml
+F:\3.Ay(Html-Css-ASP)\9.Gün(Katmanli)\MVCKatmanli\Katmanli.REP\obj\Debug\Katmanli.REP.csprojResolveAssemblyReference.cache
+F:\3.Ay(Html-Css-ASP)\9.Gün(Katmanli)\MVCKatmanli\Katmanli.REP\obj\Debug\Katmanli.REP.dll
+F:\3.Ay(Html-Css-ASP)\9.Gün(Katmanli)\MVCKatmanli\Katmanli.REP\obj\Debug\Katmanli.REP.pdb

@@ -1,0 +1,55 @@
+﻿@model List<Katmanli.DTO.ProductsDTO>
+@{
+    ViewBag.Title = "Liste";
+    Layout = "~/Views/Shared/_LayoutPage1.cshtml";
+}
+
+
+<a class=" btn btn-info float-right" href="/Products/Ekle">Yeni Kayıt</a>
+<h2>Liste</h2>
+<div>
+
+    <form action="/Products/Liste" method="get" class="d-inline-flex">
+
+        <input type="search" name="key" class="form-control" id=" form-group-input" placeholder="Arama" />
+        <button class="btn btn-success" type="submit">Ara</button>
+    </form>
+</div>
+<table class="table table-hover  table-responsive  table-bordered">
+    <thead>
+
+
+
+        <tr>
+            <th>ProductsID</th>
+            <th>ProductsName</th>
+            <th>CatagoryName</th>
+            <th>CompanyName</th>
+            <th>PUnit Price</th>
+            <th>Quantity Per Unit</th>
+            <th>Detail</th>
+            <th>Update</th>
+            <th>Delete</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.ProductID</td>
+                <td>@item.ProductName</td>
+                <td>@item.CategoryName</td>
+                <td>@item.CompanyName</td>
+                <td>@item.UnitPrice</td>
+                <td>@item.QuantityPerUnit</td>
+                <td><a href="/Products/Detay/@item.ProductID">Detay</a></td>
+                <td><a href="/Products/Guncel/@item.ProductID">Guncel</a></td>
+                <td><a href="/Products/Sil/@item.ProductID">Sil</a></td>
+            </tr>
+        }
+
+    </tbody>
+</table>
+
+
+

@@ -1,0 +1,12 @@
+F:\3.Ay(Html-Css-ASP)\9.Gün(Katmanli)\MVCKatmanli\Katmanli.DAL\bin\Debug\Katmanli.DAL.dll.config
+F:\3.Ay(Html-Css-ASP)\9.Gün(Katmanli)\MVCKatmanli\Katmanli.DAL\bin\Debug\Katmanli.DAL.dll
+F:\3.Ay(Html-Css-ASP)\9.Gün(Katmanli)\MVCKatmanli\Katmanli.DAL\bin\Debug\Katmanli.DAL.pdb
+F:\3.Ay(Html-Css-ASP)\9.Gün(Katmanli)\MVCKatmanli\Katmanli.DAL\bin\Debug\EntityFramework.dll
+F:\3.Ay(Html-Css-ASP)\9.Gün(Katmanli)\MVCKatmanli\Katmanli.DAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\3.Ay(Html-Css-ASP)\9.Gün(Katmanli)\MVCKatmanli\Katmanli.DAL\bin\Debug\Katmanli.ENT.dll
+F:\3.Ay(Html-Css-ASP)\9.Gün(Katmanli)\MVCKatmanli\Katmanli.DAL\bin\Debug\Katmanli.ENT.pdb
+F:\3.Ay(Html-Css-ASP)\9.Gün(Katmanli)\MVCKatmanli\Katmanli.DAL\bin\Debug\EntityFramework.xml
+F:\3.Ay(Html-Css-ASP)\9.Gün(Katmanli)\MVCKatmanli\Katmanli.DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\3.Ay(Html-Css-ASP)\9.Gün(Katmanli)\MVCKatmanli\Katmanli.DAL\obj\Debug\Katmanli.DAL.csprojResolveAssemblyReference.cache
+F:\3.Ay(Html-Css-ASP)\9.Gün(Katmanli)\MVCKatmanli\Katmanli.DAL\obj\Debug\Katmanli.DAL.dll
+F:\3.Ay(Html-Css-ASP)\9.Gün(Katmanli)\MVCKatmanli\Katmanli.DAL\obj\Debug\Katmanli.DAL.pdb
